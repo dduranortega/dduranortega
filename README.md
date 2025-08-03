@@ -1,7 +1,7 @@
 # 🔥 Diego Duran Ortega 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Master+of+Business+Analytics;I+enjoy+coffee+and+tea;Let's+connect+on+LinkedIn)](https://git.io/typing-svg)
-**`Master of Business Analytics`**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Master+of+Business+Analytics;I+enjoy+great+food,+drinks,+and+sports;Let's+connect+on+LinkedIn)](https://git.io/typing-svg)
+**`Mex-I-can`**
 
 I'm passionate about storytelling with data, strategy games and sports analytics. These passions reflect professionaly. I have a solid foundation in ad 
 hoc analysis, slide deck storytelling, proficient in English & Spanish as well as Python, SQL, R, and advanced Microsoft Office tools (Excel, Word, 
