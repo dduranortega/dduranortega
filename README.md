@@ -9,6 +9,8 @@ PowerPoint). I'm also skileld with data visualization tools such as Tableau, Pow
 growth, with strong leadership mentality, I am eager to contribute my expertise to organizations committed to making a positive impact 
 and driving sustainable change. 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/diego-duran-ortega-963522b3/)
+
 <!--
 **dduranortega/dduranortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
