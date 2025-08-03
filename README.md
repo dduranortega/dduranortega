@@ -1,6 +1,6 @@
 # 🔥 Diego Duran Ortega 
 
-**`Master of Business Strategy & Analytics`**
+**`Master of Business Analytics`**
 
 I'm passionate about storytelling with data, strategy games and sports analytics. These passions reflect professionaly. I have a solid foundation in ad 
 hoc analysis, slide deck storytelling, proficient in English & Spanish as well as Python, SQL, R, and advanced Microsoft Office tools (Excel, Word, 
