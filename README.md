@@ -1,5 +1,6 @@
 # 🔥 Diego Duran Ortega 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Master+of+Business+Analytics;I+enjoy+coffee+and+tea;Let's+connect+on+LinkedIn)](https://git.io/typing-svg)
 **`Master of Business Analytics`**
 
 I'm passionate about storytelling with data, strategy games and sports analytics. These passions reflect professionaly. I have a solid foundation in ad 
