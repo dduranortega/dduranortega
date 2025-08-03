@@ -2,9 +2,9 @@
 
 **`Master of Business Strategy & Analytics`**
 
-I'm passionate about. Senior Data, Strategy and Analytics specialist, with experience in startups. Solid foundation in ad 
-hoc analysis, storytelling, proficient in English, Spanish as well as Python, SQL, R, and advanced Microsoft Office tools (Excel, Word, 
-PowerPoint) as well with data visualization such as Tableau, PowerBI, and Salesforce. Committed to constant learning and professional 
+I'm passionate about storytelling with data, strategy games and sports analytics. These passions reflect professionaly. I have a solid foundation in ad 
+hoc analysis, slide deck storytelling, proficient in English & Spanish as well as Python, SQL, R, and advanced Microsoft Office tools (Excel, Word, 
+PowerPoint). I'm also skileld with data visualization tools such as Tableau, PowerBI, and Salesforce. Committed to constant learning and professional 
 growth, with strong leadership mentality, I am eager to contribute my expertise to organizations committed to making a positive impact 
 and driving sustainable change. 
 
